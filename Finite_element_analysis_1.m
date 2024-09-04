@@ -1,4 +1,4 @@
-% MTE204_Project2_1.m
+% Finite_element_analysis_1.m
 
 % During this project, we will be performing a finite element analysis of
 % two different problems 
